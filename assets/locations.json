@@ -1,0 +1,284 @@
+[
+    {
+        "name": "Rio de Janeiro - Barra da Tijuca (Sede)",
+        "address": "Av. das Américas, 3443 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-102",
+        "latitude": "-23.000903112343934",
+        "longitude": "-43.348250548206835"
+    },
+    {
+        "name": "Rio de Janeiro - Flamengo",
+        "address": "",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "name": "Rio de Janeiro - Centro",
+        "address": "Av. Rio Branco, 115 - 19º andar - Centro, Rio de Janeiro - RJ, 20040-004",
+        "latitude": "-22.903076958686523",
+        "longitude": "-43.178130717242944"
+    },
+    {
+        "name": "Rio de Janeiro - Campo Grande",
+        "address": "",
+        "latitude": "-22.890126888045067",
+        "longitude": "-43.56475212556081"
+    },
+    {
+        "name": "Rio de Janeiro - Madureira",
+        "address": "",
+        "latitude": "-22.873936057303613",
+        "longitude": "-43.337485178902426"
+    },
+    {
+        "name": "São Gonçalo - Centro",
+        "address": "",
+        "latitude": "-22.823944740108942",
+        "longitude": "-43.04568990140962"
+    },
+    {
+        "name": "Nova Iguaçu - Centro",
+        "address": "",
+        "latitude": "-22.758449571253255",
+        "longitude": "-43.449511227630325"
+    },
+    {
+        "name": "Duque de Caxias - Centro",
+        "address": "",
+        "latitude": "-22.7572996425107",
+        "longitude": "-43.308887538952234"
+    },
+    {
+        "name": "São Paulo - Vila Mariana / Ana Rosa",
+        "address": "Rua Alceu Wamosy, 20 - Vila Mariana, São Paulo - SP, 04105-040",
+        "latitude": "-23.578929190067097",
+        "longitude": "-46.63586933072681"
+    },
+    {
+        "name": "São Paulo - Tatuapé",
+        "address": "Rua Henrique Sertório, 564, conjunto 921 - Tatuapé, São Paulo - SP, 03066-065",
+        "latitude": "-23.5397845725612",
+        "longitude": "-46.57873893072734"
+    },
+    {
+        "name": "São Paulo - Moema",
+        "address": "",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "name": "São Paulo - Santana",
+        "address": "",
+        "latitude": "-23.49736268107995",
+        "longitude": "-46.628097657115354"
+    },
+    {
+        "name": "São Paulo - Lapa",
+        "address": "",
+        "latitude": "-23.522439047445623",
+        "longitude": "-46.7110784045252"
+    },
+    {
+        "name": "Belo Horizonte - Centro",
+        "address": "Rua Paraíba, 330 - 17º andar - Centro, Belo Horizonte - MG, 30130-140",
+        "latitude": "-19.928854659601654",
+        "longitude": "-43.931914730773364"
+    },
+    {
+        "name": "Campinas - Taquaral",
+        "address": "Rua Amélia Bueno, 173 - Sala B - Taquaral, Campinas - SP, 13076-050",
+        "latitude": "-22.883945694126176",
+        "longitude": "-47.054819346624555"
+    },
+    {
+        "name": "Recife - Boa Viagem",
+        "address": "Av. Conselheiro Aguiar, 4599, Galeria Mix - Boa Viagem, Recife - PE, 51021-020",
+        "latitude": "-8.127301788315826",
+        "longitude": "-34.89983981552942"
+    },
+    {
+        "name": "Fortaleza - Aldeota",
+        "address": "Av. Senador Virgilio Tavora, n° 999, loja 01, CEP 60.170-079, Aldeota, Fortaleza – Ceará",
+        "latitude": "-3.735337",
+        "longitude": "-38.4923217"
+    },
+    {
+        "name": "Brasília - Asa Sul",
+        "address": "",
+        "latitude": "-15.810093603942674",
+        "longitude": "-47.9029475861315"
+    },
+    {
+        "name": "Curitiba - Rebouças",
+        "address": "",
+        "latitude": "-25.44362872729309",
+        "longitude": "-49.26443649763285"
+    },
+    {
+        "name": "Goiânia - Setor Bueno",
+        "address": "",
+        "latitude": "-16.701141678823305",
+        "longitude": "-49.27390720786511"
+    },
+    {
+        "name": "São José dos Campos - Vila Ema",
+        "address": "",
+        "latitude": "-23.20533540628779",
+        "longitude": "-45.90059185401875"
+    },
+    {
+        "name": "Sorocaba - Centro",
+        "address": "",
+        "latitude": "-23.502449625995773",
+        "longitude": "-47.45694792232467"
+    },
+    {
+        "name": "Vitória - Centro",
+        "address": "",
+        "latitude": "-20.31878284528284",
+        "longitude": "-40.336863031676465"
+    },
+    {
+        "name": "Santos - Gonzaga",
+        "address": "",
+        "latitude": "-23.962812433796756",
+        "longitude": "-46.33444539094709"
+    },
+    {
+        "name": "Natal - Centro",
+        "address": "",
+        "latitude": "-5.786570737827844",
+        "longitude": "-35.2052657358617"
+    },
+    {
+        "name": "Ribeirão Preto - Jardim Irajá",
+        "address": "",
+        "latitude": "-21.204834040014084",
+        "longitude": "-47.80373683103086"
+    },
+    {
+        "name": "Foz do Iguaçu",
+        "address": "Av. das Cataratas, 1118 - Vila Yolanda, Foz do Iguaçu - PR, 85853-000",
+        "latitude": "-25.552159727888895",
+        "longitude": "-54.569772552775"
+    },
+    {
+        "name": "Salvador",
+        "address": "Av. da França, 393 - 2º andar - Comercio, Salvador - BA, 40010-000",
+        "latitude": "-12.969776991768448",
+        "longitude": "-38.512567653095225"
+    },
+    {
+        "name": "Manaus - Centro",
+        "address": "",
+        "latitude": "-3.130372556367959",
+        "longitude": "-60.02064848835533"
+    },
+    {
+        "name": "Porto Alegre - Centro",
+        "address": "",
+        "latitude": "-30.030849525838626",
+        "longitude": "-51.22585519429915"
+    },
+    {
+        "name": "Teresina - Centro",
+        "address": "",
+        "latitude": "-5.0875047163607",
+        "longitude": "-42.786387280795104"
+    },
+    {
+        "name": "Aracajú - Centro",
+        "address": "",
+        "latitude": "-10.912238010008203",
+        "longitude": "-37.050403505191724"
+    },
+    {
+        "name": "Campo Grande - Centro",
+        "address": "",
+        "latitude": "-20.46288566693412",
+        "longitude": "-54.61141614626015"
+    },
+    {
+        "name": "Guarulhos - Centro",
+        "address": "",
+        "latitude": "-23.467928829381503",
+        "longitude": "-46.53287349018172"
+    },
+    {
+        "name": "São Luís - Centro",
+        "address": "",
+        "latitude": "-2.5308120820398634",
+        "longitude": "-44.300322156694854"
+    },
+    {
+        "name": "Osasco - Centro",
+        "address": "",
+        "latitude": "-23.532334552182743",
+        "longitude": "-46.77926526451716"
+    },
+    {
+        "name": "Porto Velho - Centro",
+        "address": "",
+        "latitude": "-8.764933165458107",
+        "longitude": "-63.90371850561577"
+    },
+    {
+        "name": "João Pessoa - Centro",
+        "address": "",
+        "latitude": "-7.119695709428401",
+        "longitude": "-34.88221543898413"
+    },
+    {
+        "name": "Cuiabá - Centro",
+        "address": "",
+        "latitude": "-15.593243377186797",
+        "longitude": "-56.0972191276162"
+    },
+    {
+        "name": "Maceió - Centro",
+        "address": "",
+        "latitude": "-9.62784700741368",
+        "longitude": "-35.69818216607742"
+    },
+    {
+        "name": "Florianópolis - Centro",
+        "address": "",
+        "latitude": "-27.654952089470896",
+        "longitude": "-48.668606602194316"
+    },
+    {
+        "name": "Belém - Centro [em breve]",
+        "address": "",
+        "latitude": "-1.4524905",
+        "longitude": "-48.4955757"
+    },
+    {
+        "name": "Contagem - Centro [em breve]",
+        "address": "",
+        "latitude": "-19.9256214",
+        "longitude": "-44.0792725"
+    },
+    {
+        "name": "Mogi das Cruzes - Centro [em breve]",
+        "address": "",
+        "latitude": "-23.5248686",
+        "longitude": "-46.1940161"
+    },
+    {
+        "name": "São Bernardo do Campo - Centro [em breve]",
+        "address": "",
+        "latitude": "-23.7209739",
+        "longitude": "-46.5483857"
+    },
+    {
+        "name": "São José - Centro [em breve]",
+        "address": "",
+        "latitude": "-27.6129136",
+        "longitude": "-48.6316612"
+    },
+    {
+        "name": "Uberlândia - Centro [em breve]",
+        "address": "",
+        "latitude": "-18.9159991",
+        "longitude": "-48.276521"
+    }
+]   

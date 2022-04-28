@@ -24,54 +24,10 @@ body {
 }
 
 /* Aside */
-aside {
-    width: 100%;
-
-    background: linear-gradient(329.54deg, #18E898 0%, #8EE1DE 100%);
-    color: white;
-
-    padding: 1.5rem;
-
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-
-    gap: 1.5rem;
-}
-
-aside main {
-    width: 100%;
-
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-aside main img {
-    width: 7rem;
-}
-
-aside main .content {
-    margin-top: 1.5rem;
-}
-
-aside main .content h2 {
-    font-size: 2rem;
-    font-weight: 800;
-
-    margin-bottom: 0.5rem;
-}
-
-aside main .content p,
-aside div span {
-    font-size: 0.8rem;
-}
+aside { display: none; }
 
 /* Map */
-#map {
-    width: 100%;
-    height: 100%;
-}
+#map { width: 100%; height: 100%; }
 
 /* Desktop */
 @media (min-width: 820px) {
@@ -80,15 +36,41 @@ aside div span {
     aside {
         width: 30%;
 
+        background: linear-gradient(329.54deg, #18E898 0%, #8EE1DE 100%);
+        color: white;
+
         padding: 4rem 2rem;
 
+        display: flex;
+        flex-direction: column;
         align-items: flex-start;
         justify-content: space-between;
 
         gap: 2rem;
     }
+    aside main {
+        width: 100%;
 
-    aside main img { width: 8rem; }
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    aside main img {
+        width: 8rem;
+    }
+    aside main .content {
+        margin-top: 1.5rem;
+    }
+    aside main .content h2 {
+        font-size: 2rem;
+        font-weight: 800;
+
+        margin-bottom: 0.5rem;
+    }
+    aside main .content p,
+    aside div span {
+        font-size: 0.8rem;
+    }
 
     #map { width: calc(100% - 30%); }
 }
